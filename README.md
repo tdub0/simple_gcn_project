@@ -1,6 +1,6 @@
 # Simple GCN Project
 
-This is a re-implementation of the SGC described in [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153) from ICML2019. The main goal of this project is to verify the claims from the paper and extend the experiements on SGC and GCN across several page-page datasets.
+This is a re-implementation of the SGC described in [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153) from ICML2019. The main goal of this project is to verify the claims from the paper and extend the experiments on SGC and GCN across several page-page datasets.
 
 ## How to Run the Experiments in Google Colab
 
